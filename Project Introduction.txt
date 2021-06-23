@@ -1,12 +1,24 @@
-Daily Sports this will be an exciting application for the people who love sports and want to know everything which is going around in the sports world. This application will be working in computers as well as in phones and people will be able to come across every sports highlight as well as live commentary. Now they don't have to see score on google they will just have to open this app and search the name of the match and there comes each and everything about that match.
+Name:Japjot Singh
+Student number: 100396704
 
-Project Functions 
-All the sports will be wrapped in one application.
 
-People will be able to follow the sport which they like, after which they will get notifications of upcoming matches.
+Daily Sports this will be an exciting application for the people who love
+sports and want to know everything which is going around in the sports world. 
+This application will be working in computers as well as in phones and people will 
+be able to come across every sports highlight as well as live commentary. 
+Now they don't have to see score on google they will just have to open this 
+app and search the name of the match and there comes each and everything about 
+that match.
 
-All the matches past results will be saved in this application.
+Project Functions:
 
-This app will have user- friendly interface.
+1.All the sports will be wrapped in one application.
 
-Users will be able to know brief biography of the palyers.
+2.People will be able to follow the sport which they like, after which 
+they will get notifications of upcoming matches.
+
+3.All the matches past results will be saved in this application.
+
+4.This app will have user- friendly interface.
+
+5.Users will be able to know brief biography of the palyers.
